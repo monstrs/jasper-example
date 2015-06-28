@@ -1,0 +1,12 @@
+# ignore IDE settings
+.c9revisions
+.idea
+.settings
+
+# ignore generated files
+project/target/
+project/project/target/
+target/
+
+# sbt
+sbt-launch.jar

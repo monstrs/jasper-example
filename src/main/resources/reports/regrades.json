@@ -1,0 +1,22 @@
+{
+  "id": 53,
+  "branch": "Company Name",
+  "number": "EG15-00003",
+  "status": "closed",
+  "note": "Note",
+  "confirmed_at": "2015-06-16",
+  "created_at": "2015-06-16T15:12:47.484+03:00",
+  "updated_at": "2015-06-16T15:13:14.290+03:00",
+  "stock": {
+    "id": 19,
+    "name": "New Stock"
+  },
+  "confirmed_by_employee": {
+    "id": 424,
+    "full_name": "Ivanov Ivan"
+  },
+  "created_by_employee": {
+    "id": 424,
+    "full_name": "Ivanov Ivan"
+  }
+}
